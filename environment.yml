@@ -1,0 +1,10 @@
+name: sf_env
+channels:
+  - snowflake
+dependencies:
+  - streamlit
+  - pandas
+  - snowflake-snowpark-python
+  - requests
+  - anthropic
+  # add your gen AI packages here (e.g. openai, langchain, etc.)

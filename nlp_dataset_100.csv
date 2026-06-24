@@ -1,0 +1,101 @@
+text,label
+boosts immunity naturally,health_claim
+doctor recommended drink,health_claim
+clinically proven results,health_claim
+improves overall health,health_claim
+enhances energy levels,health_claim
+boosts immunity naturally,health_claim
+doctor recommended drink,health_claim
+clinically proven results,health_claim
+improves overall health,health_claim
+enhances energy levels,health_claim
+boosts immunity naturally,health_claim
+doctor recommended drink,health_claim
+clinically proven results,health_claim
+improves overall health,health_claim
+enhances energy levels,health_claim
+best product in the world,misleading_claim
+number one brand globally,misleading_claim
+unmatched quality guaranteed,misleading_claim
+top rated by everyone,misleading_claim
+no product compares to this,misleading_claim
+best product in the world,misleading_claim
+number one brand globally,misleading_claim
+unmatched quality guaranteed,misleading_claim
+top rated by everyone,misleading_claim
+no product compares to this,misleading_claim
+best product in the world,misleading_claim
+number one brand globally,misleading_claim
+unmatched quality guaranteed,misleading_claim
+top rated by everyone,misleading_claim
+no product compares to this,misleading_claim
+limited time offer buy now,price_violation
+50 percent discount today,price_violation
+huge sale ends soon,price_violation
+buy one get one free,price_violation
+exclusive deal hurry up,price_violation
+limited time offer buy now,price_violation
+50 percent discount today,price_violation
+huge sale ends soon,price_violation
+buy one get one free,price_violation
+exclusive deal hurry up,price_violation
+limited time offer buy now,price_violation
+50 percent discount today,price_violation
+huge sale ends soon,price_violation
+buy one get one free,price_violation
+exclusive deal hurry up,price_violation
+win a free prize now,competition
+enter the lottery today,competition
+spin to win rewards,competition
+join contest and win,competition
+chance to win big,competition
+win a free prize now,competition
+enter the lottery today,competition
+spin to win rewards,competition
+join contest and win,competition
+chance to win big,competition
+win a free prize now,competition
+enter the lottery today,competition
+spin to win rewards,competition
+join contest and win,competition
+chance to win big,competition
+eco friendly product,sustainability_claim
+carbon neutral packaging,sustainability_claim
+100 percent green solution,sustainability_claim
+environment safe material,sustainability_claim
+sustainable and biodegradable,sustainability_claim
+eco friendly product,sustainability_claim
+carbon neutral packaging,sustainability_claim
+100 percent green solution,sustainability_claim
+environment safe material,sustainability_claim
+sustainable and biodegradable,sustainability_claim
+eco friendly product,sustainability_claim
+carbon neutral packaging,sustainability_claim
+100 percent green solution,sustainability_claim
+environment safe material,sustainability_claim
+sustainable and biodegradable,sustainability_claim
+enjoy drinks with friends,age_restricted
+get drunk tonight,age_restricted
+party with alcohol,age_restricted
+drink responsibly tonight,age_restricted
+alcohol for adults only,age_restricted
+enjoy drinks with friends,age_restricted
+get drunk tonight,age_restricted
+party with alcohol,age_restricted
+drink responsibly tonight,age_restricted
+alcohol for adults only,age_restricted
+enjoy drinks with friends,age_restricted
+get drunk tonight,age_restricted
+party with alcohol,age_restricted
+drink responsibly tonight,age_restricted
+alcohol for adults only,age_restricted
+available in stores now,compliant
+discover new taste today,compliant
+try our new product,compliant
+explore the collection,compliant
+now available near you,compliant
+available in stores now,compliant
+discover new taste today,compliant
+try our new product,compliant
+explore the collection,compliant
+now available near you,compliant

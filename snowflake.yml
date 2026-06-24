@@ -1,0 +1,10 @@
+definition_version: 2
+entities:
+  compliance_studio:
+    type: streamlit
+    identifier: compliance_studio_app
+    query_warehouse: COMPUTE_WH
+    main_file: dashboard.py
+    artifacts:
+      - src: "*.py"
+      - src: "environment.yml"
