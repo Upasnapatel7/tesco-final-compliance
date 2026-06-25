@@ -6,5 +6,21 @@ entities:
     query_warehouse: COMPUTE_WH
     main_file: dashboard.py
     artifacts:
-      - src: "*.py"
-      - src: "environment.yml"
+      - dashboard.py
+      - auth.py
+      - brand_config.py
+      - compliance_engine.py
+      - creative_renderer.py
+      - creative_studio.py
+      - ml_pipeline.py
+      - policy_analyser.py
+      - advanced_ai_tab.py
+      - ai_creative_assistant.py
+      - ai_creative_director.py
+      - ai_creative_generator.py
+      - background_remover.py
+      - value_tile_generator.py
+      - vector_db.py
+      - video_editor.py
+      - xai_explainer.py
+      - environment.yml
